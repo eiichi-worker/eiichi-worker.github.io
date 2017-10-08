@@ -17,7 +17,9 @@ Git
 
 SNS
 ---
-coming soon
+- [Google+](https://plus.google.com/+EiichiFujimoto)
+- [facebook](https://www.facebook.com/eiichi.fujimoto)
+- [Instagram](https://www.instagram.com/f_eiichi/)
 
 Works
 ---
