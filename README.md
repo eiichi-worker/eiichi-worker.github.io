@@ -25,7 +25,10 @@ Works
 ---
 coming soon
 
-
+お仕事で書いた記事
+---
+- [2017.09.27 【エンジニア向け】よく聞くS3ってなに？ただのストレージじゃないの？？](https://service.plan-b.co.jp/blog/creative/4981/)
+- [2017.06.16 【エンジニア向け】Webサイト制作で使いたいAWSサービス5選+1](https://service.plan-b.co.jp/blog/creative/2287/)
 免責
 ---
 本投稿、リンク先等は、個人の意見です。所属する企業や団体は関係ありません。
