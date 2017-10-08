@@ -15,6 +15,9 @@ Git
 - [技術は生もの](http://blog.noraneko.work/)
 - [GitHub Gist](https://gist.github.com/eiichi-worker)
 
+SNS
+---
+coming soon
 
 Works
 ---
