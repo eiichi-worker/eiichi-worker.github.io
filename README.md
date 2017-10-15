@@ -8,30 +8,31 @@ Eiichi Fujimoto
 スキル
 ---
 - プログラミング
-  - PHP
-  - Javascript
-  - Node.js
-  - Java
+ - PHP
+ - Javascript
+ - Node.js
+ - Java
   
 - データベース
-  - Mysql
-  - Redis
-  - DynamoDB
+ - Mysql
+ - Redis
+ - DynamoDB
 
 - ビッグデータ
-  - EMR
-  - TreasureData
+ - EMR
+ - TreasureData
 
 - クラウド
-  - AWS
+ - AWS
 
 - サーバー
-  - Linux（CentOS,Ubuntu,AmazonLinux）
+ - Linux（CentOS,Ubuntu,AmazonLinux）
 
 - 開発機
-  - Windows（メイン）
-  - Mac
-  
+ - Windows（メイン）
+ - Mac
+
+
 資格
 ---
 - 
