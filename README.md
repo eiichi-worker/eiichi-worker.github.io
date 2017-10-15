@@ -1,9 +1,40 @@
 Eiichi Fujimoto
 ===
-- 大阪
+- 藤本 永一
+- 現在 大阪
 - エンジニア
   - WEB系が得意。主にバックエンド。
 
+スキル
+---
+- プログラミング
+  - PHP
+  - Javascript
+  - Node.js
+  - Java
+  
+- データベース
+  - Mysql
+  - Redis
+  - DynamoDB
+
+- ビッグデータ
+  - EMR
+  - TreasureData
+
+- クラウド
+  - AWS
+
+- サーバー
+  - Linux（CentOS,Ubuntu,AmazonLinux）
+
+- 開発機
+  - Windows（メイン）
+  - Mac
+  
+資格
+---
+- 
 
 Git
 ---
