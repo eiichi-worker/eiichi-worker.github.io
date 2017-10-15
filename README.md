@@ -7,7 +7,7 @@ Eiichi Fujimoto
 
 スキル
 ---
-- プログラミング  
+- プログラミング
     - PHP5.6
     - Javascript
     - Node.js
