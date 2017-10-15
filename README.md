@@ -7,12 +7,13 @@ Eiichi Fujimoto
 
 スキル
 ---
-- プログラミング
+- プログラミング  
  - PHP
  - Javascript
  - Node.js
  - Java
-  
+ - Python3
+ 
 - データベース
  - Mysql
  - Redis
