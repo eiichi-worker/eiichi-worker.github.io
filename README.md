@@ -41,7 +41,7 @@ Eiichi Fujimoto
 Git
 ---
 - [GitHub](https://github.com/eiichi-worker) 
-
+- [Bitbucket](https://bitbucket.org/eiichi-worker/)
 
 ブログ
 ---
