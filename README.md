@@ -36,7 +36,13 @@ Eiichi Fujimoto
 
 資格
 ---
-- 
+- 基本
+- 応用
+- DBS
+- Oracle 11g Bronze
+- 第2種 電気工事士
+- CCNA (失効)
+
 
 Git
 ---
@@ -65,6 +71,10 @@ coming soon
 ---
 - [2017.09.27 【エンジニア向け】よく聞くS3ってなに？ただのストレージじゃないの？？](https://service.plan-b.co.jp/blog/creative/4981/)
 - [2017.06.16 【エンジニア向け】Webサイト制作で使いたいAWSサービス5選+1](https://service.plan-b.co.jp/blog/creative/2287/)
+
+勉強会
+---
+- 
 
 コンタクト
 ---
