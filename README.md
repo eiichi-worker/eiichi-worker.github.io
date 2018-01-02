@@ -7,31 +7,33 @@ Eiichi Fujimoto
 
 スキル
 ---
-- プログラミング
-    - PHP5.6
-    - Javascript
-    - Node.js
-    - Java
-    - Python3
+- プログラミング  
+    - PHP5.6  
+    - Javascript  
+    - Node.js  
+    - Java  
+    - Python3  
  
-- データベース
-    - Mysql
-    - Redis
-    - DynamoDB
+- データベース  
+    - Mysql  
+    - Redis  
+    - DynamoDB  
+    - Elasticsearch 5.6  
 
-- ビッグデータ
-    - EMR
-    - TreasureData
+- ビッグデータ  
+    - EMR  
+    - TreasureData  
 
-- クラウド
-    - AWS
+- クラウド  
+    - AWS  
+    - Firebase  
 
-- サーバー
-    - Linux（CentOS,Ubuntu,AmazonLinux）
+- サーバー  
+    - Linux（CentOS,Ubuntu,AmazonLinux）  
 
-- 開発機
-    - Windows（メイン）
-    - Mac
+- 開発機  
+    - Windows（メイン）  
+    - Mac  
 
 
 資格
@@ -58,13 +60,13 @@ Git
 SNS
 ---
 - [Google+](https://plus.google.com/+EiichiFujimoto)
-- [facebook](https://www.facebook.com/eiichi.fujimoto)
+- [Facebook](https://www.facebook.com/eiichi.fujimoto)
 - [Instagram](https://www.instagram.com/f_eiichi/)
-
+- [Twitter](https://twitter.com/EiichiCat)
 
 Works
 ---
-coming soon
+- 2015.11 ~ now [Juicer](https://juicer.cc/)
 
 
 お仕事で書いた記事
