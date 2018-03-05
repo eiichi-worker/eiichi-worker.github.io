@@ -56,14 +56,6 @@ Git
 - [技術は生もの](http://blog.noraneko.work/)
 - [GitHub Gist](https://gist.github.com/eiichi-worker)
 
-
-SNS
----
-- [Google+](https://plus.google.com/+EiichiFujimoto)
-- [Facebook](https://www.facebook.com/eiichi.fujimoto)
-- [Instagram](https://www.instagram.com/f_eiichi/)
-- [Twitter](https://twitter.com/EiichiCat)
-
 Works
 ---
 - 2015.11 ~ now [Juicer](https://juicer.cc/)
@@ -77,9 +69,18 @@ Works
 勉強会
 ---
 - 2017/11/25 [【ヒカ☆ラボ関西】やってみよう、機械学習。ふれてみよう、ビッグデータ。vol.1（2017/11/25開催）](https://career.levtech.jp/hikalab/event/detail/143/)
+- 2018/02/24 [#1【PB Lab】 ビッグデータ 貯めて -> 分析 -> 可視化してみよう　ハンズオン - connpass](https://plan-b.connpass.com/event/78506/)
+
+SNS
+---
+- [Google+](https://plus.google.com/+EiichiFujimoto)
+- [Facebook](https://www.facebook.com/eiichi.fujimoto)
+- [Instagram](https://www.instagram.com/f_eiichi/)
+- [Twitter](https://twitter.com/EiichiCat)
 
 コンタクト
 ---
+- Discode Eiichi #6235
 - [ChatWork](https://chatwork.com/Eiichi_Fujimoto)
 
 
