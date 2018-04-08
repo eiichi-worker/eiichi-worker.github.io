@@ -63,13 +63,14 @@ Works
 
 お仕事で書いた記事
 ---
+- [2018-03-28WEBのCI環境をサクッと始めてみる | Pinto!](https://service.plan-b.co.jp/blog/tech/10262/)
 - [2017.09.27 【エンジニア向け】よく聞くS3ってなに？ただのストレージじゃないの？？](https://service.plan-b.co.jp/blog/creative/4981/)
 - [2017.06.16 【エンジニア向け】Webサイト制作で使いたいAWSサービス5選+1](https://service.plan-b.co.jp/blog/creative/2287/)
 
 勉強会
 ---
-- 2017/11/25 [【ヒカ☆ラボ関西】やってみよう、機械学習。ふれてみよう、ビッグデータ。vol.1（2017/11/25開催）](https://career.levtech.jp/hikalab/event/detail/143/)
 - 2018/02/24 [#1【PB Lab】 ビッグデータ 貯めて -> 分析 -> 可視化してみよう　ハンズオン - connpass](https://plan-b.connpass.com/event/78506/)
+- 2017/11/25 [【ヒカ☆ラボ関西】やってみよう、機械学習。ふれてみよう、ビッグデータ。vol.1（2017/11/25開催）](https://career.levtech.jp/hikalab/event/detail/143/)
 
 SNS
 ---
