@@ -63,7 +63,7 @@ Works
 
 お仕事で書いた記事
 ---
-- [2018-03-28WEBのCI環境をサクッと始めてみる | Pinto!](https://service.plan-b.co.jp/blog/tech/10262/)
+- [2018-03-28 WEBのCI環境をサクッと始めてみる | Pinto!](https://service.plan-b.co.jp/blog/tech/10262/)
 - [2017.09.27 【エンジニア向け】よく聞くS3ってなに？ただのストレージじゃないの？？](https://service.plan-b.co.jp/blog/creative/4981/)
 - [2017.06.16 【エンジニア向け】Webサイト制作で使いたいAWSサービス5選+1](https://service.plan-b.co.jp/blog/creative/2287/)
 
@@ -78,6 +78,11 @@ SNS
 - [Facebook](https://www.facebook.com/eiichi.fujimoto)
 - [Instagram](https://www.instagram.com/f_eiichi/)
 - [Twitter](https://twitter.com/EiichiCat)
+
+技術系サービス
+---
+- [Eiichi | Kaggle](https://www.kaggle.com/eiichiworker)
+
 
 コンタクト
 ---
