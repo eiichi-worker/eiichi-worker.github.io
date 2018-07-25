@@ -94,7 +94,8 @@ SNS
 ---
 本投稿、リンク先等は、個人の意見です。所属する企業や団体は関係ありません。
 
-
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ja_JP" data-type="horizontal" data-theme="light" data-vanity="eiichi-fujimoto-6b686b109"><a class="LI-simple-link" href='https://jp.linkedin.com/in/eiichi-fujimoto-6b686b109?trk=profile-badge'>Eiichi Fujimoto</a></div>
 
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107689012-1"></script>
