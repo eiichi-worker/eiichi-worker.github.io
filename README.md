@@ -69,6 +69,7 @@ Works
 
 勉強会
 ---
+- 2018/07/28 [Facebook Developer Circle Osaka Vol.3](https://www.facebook.com/events/674526319553265/)
 - 2018/02/24 [#1【PB Lab】 ビッグデータ 貯めて -> 分析 -> 可視化してみよう　ハンズオン - connpass](https://plan-b.connpass.com/event/78506/)
 - 2017/11/25 [【ヒカ☆ラボ関西】やってみよう、機械学習。ふれてみよう、ビッグデータ。vol.1（2017/11/25開催）](https://career.levtech.jp/hikalab/event/detail/143/)
 
