@@ -67,7 +67,7 @@ Works
 - [2017.09.27 【エンジニア向け】よく聞くS3ってなに？ただのストレージじゃないの？？](https://service.plan-b.co.jp/blog/creative/4981/)
 - [2017.06.16 【エンジニア向け】Webサイト制作で使いたいAWSサービス5選+1](https://service.plan-b.co.jp/blog/creative/2287/)
 
-勉強会
+勉強会など登壇
 ---
 - 2018/07/28 [Facebook Developer Circle Osaka Vol.3](https://www.facebook.com/events/674526319553265/)
 - 2018/02/24 [#1【PB Lab】 ビッグデータ 貯めて -> 分析 -> 可視化してみよう　ハンズオン - connpass](https://plan-b.connpass.com/event/78506/)
