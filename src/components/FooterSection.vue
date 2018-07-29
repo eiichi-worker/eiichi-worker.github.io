@@ -1,0 +1,15 @@
+<template>
+  <div id="footer">
+    <div class="container text-center">
+      <div class="fnav">
+        <p>Copyright &copy; 2016 John Doe. Designed by <a
+          href="http://www.templatewire.com"
+          rel="nofollow">TemplateWire</a></p>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script></script>
+
+<style scoped></style>
