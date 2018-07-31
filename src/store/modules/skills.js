@@ -3,7 +3,8 @@ import Vuex from 'vuex'
 
 Vue.use(Vuex)
 
-export default new Vuex.Store({
+export default {
+  namespaced: true,
   state: {
     Programming: {
       PHP: {
@@ -29,6 +30,11 @@ export default new Vuex.Store({
       },
     },
   },
+  getters: {
+    getProgramingNames: (state, getters, rootState) => {
+      return Object.keys(state.Programming)
+    },
+  },
   mutations: {},
   actions: {},
-})
+}
