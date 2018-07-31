@@ -8,6 +8,7 @@
         <hr>
         <h3>Skills</h3>
         <hr>
+        {{this.$StoreSkills.state.PHP['5.6.*']}}
       </div>
       <div class="row">
         <div class="col-md-3 col-sm-6 skill">
