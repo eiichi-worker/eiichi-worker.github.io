@@ -29,6 +29,40 @@ export default {
         '*': 60,
       },
     },
+    Database: {
+      MySql: {},
+      Redis: {},
+      DynamoDB: {},
+      Elasticsearch: {
+        '5.6': 30,
+        '6.0': 30,
+      },
+    },
+    BigData: {
+      EMR: {},
+      Treasuredata: {},
+      Hive: {},
+      Presto: {},
+    },
+    Cloud: {
+      AWS: {},
+      Firebase: {},
+    },
+    OS: {
+      Windows: {},
+      MAC: {},
+      Linux: {
+        CentOS: {
+          '6': 0,
+          '7': 0,
+        },
+        Ubuntu: {},
+        'Amazon Linux': {
+          '1': 0,
+          '2': 0,
+        },
+      },
+    },
   },
   getters: {
     getProgramingNames: (state, getters, rootState) => {
