@@ -31,7 +31,7 @@ export default {
     ...mapState({
       programing: state => state.skills.Programming
     }),
-    ...mapGetters("skills", {
+    ...mapGetters("Skills", {
       programingNames: "getProgramingNames"
     })
   }
