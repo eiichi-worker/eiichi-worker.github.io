@@ -63,7 +63,8 @@ Works
 
 お仕事で書いた記事
 ---
-- 2018/03/28 [WEBのCI環境をサクッと始めてみる | Pinto!](https://service.plan-b.co.jp/blog/tech/10262/)
+- 2019/03/04 [成果の可視化でチームの心を1つにしよう！ツール選定とMetabaseによる実際の手順をご紹介！ 導入編](https://service.plan-b.co.jp/blog/tech/16103/)
+- 2018/03/28 [WEBのCI環境をサクッと始めてみる](https://service.plan-b.co.jp/blog/tech/10262/)
 - 2017/09/27 [【エンジニア向け】よく聞くS3ってなに？ただのストレージじゃないの？？](https://service.plan-b.co.jp/blog/creative/4981/)
 - 2017/06/16 [【エンジニア向け】Webサイト制作で使いたいAWSサービス5選+1](https://service.plan-b.co.jp/blog/creative/2287/)
 
@@ -84,7 +85,7 @@ SNS
 
 技術系サービス
 ---
-- [Eiichi | Kaggle](https://www.kaggle.com/eiichiworker)
+- [Eiichi / Kaggle](https://www.kaggle.com/eiichiworker)
 
 
 コンタクト
