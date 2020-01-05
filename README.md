@@ -1,9 +1,11 @@
 Eiichi Fujimoto
 ===
+
 - 藤本 永一 (ふじもと えいいち)
 - 大阪（山口 → 広島 → 大阪）
 - エンジニア
   - WEB系が得意。主にバックエンド。
+
 
 できること
 ---
@@ -128,7 +130,7 @@ Works
 
 - 2019-03 ~ 2019-09 [SEARCH WRITE](https://searchwrite.jp/)
 - 2015-11 ~ 2018-06 [Juicer](https://juicer.cc/)
-
+- [詳しい職務経歴はFindyに記載](https://findy-code.io/share_profiles/pqgnIcHMtc3Mr)
 
 お仕事で書いた記事
 ---
@@ -159,7 +161,6 @@ SNS
 技術系サービス
 ---
 
-- [藤本 永一の職務経歴書 | Findy](https://findy-code.io/share_profiles/pqgnIcHMtc3Mr)
 - [Eiichi / Kaggle](https://www.kaggle.com/eiichiworker)
 
 
