@@ -159,7 +159,7 @@ SNS
 技術系サービス
 ---
 
-- [藤本 永一の職務経歴書 | Findy(ファインディ)](https://findy-code.io/share_profiles/pqgnIcHMtc3Mr)
+- [藤本 永一の職務経歴書 | Findy](https://findy-code.io/share_profiles/pqgnIcHMtc3Mr)
 - [Eiichi / Kaggle](https://www.kaggle.com/eiichiworker)
 
 
