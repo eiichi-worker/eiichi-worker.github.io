@@ -126,6 +126,12 @@ Git
 - [技術は生もの](http://blog.noraneko.work/)
 - [GitHub Gist](https://gist.github.com/eiichi-worker)
 
+プロダクト/サービス
+---
+
+- [ノラネコギルド](https://guild.noraneko.work/)
+  - [ノラネコギルドの公式ブログ | 仲間と成長するためのプラットフォーム](https://scrapbox.io/noraneko-guild/)
+
 Works
 ---
 
