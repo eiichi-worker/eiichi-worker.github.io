@@ -32,7 +32,7 @@ Eiichi Fujimoto
   - ◎ ドメイン調達・設定
   - ◎ SSL対応
   - ○ WordPress構築
-  - ✗ デザイン
+  - ✗ WEBデザイン
 
 - WEBアプリ・システム系
   - ◎ クラウドインフラ設計・構築
@@ -119,6 +119,7 @@ Git
 - [GitHub](https://github.com/eiichi-worker) 
 - [Bitbucket](https://bitbucket.org/eiichi-worker/)
 
+
 ブログ
 ---
 
@@ -126,11 +127,13 @@ Git
 - [技術は生もの](http://blog.noraneko.work/)
 - [GitHub Gist](https://gist.github.com/eiichi-worker)
 
+
 プロダクト/サービス
 ---
 
 - [ノラネコギルド](https://guild.noraneko.work/)
   - [ノラネコギルドの公式ブログ | 仲間と成長するためのプラットフォーム](https://scrapbox.io/noraneko-guild/)
+
 
 Works
 ---
@@ -138,6 +141,7 @@ Works
 - 2019-03 ~ 2019-09 [SEARCH WRITE](https://searchwrite.jp/)
 - 2015-11 ~ 2018-06 [Juicer](https://juicer.cc/)
 - [詳しい職務経歴はFindyに記載](https://findy-code.io/share_profiles/pqgnIcHMtc3Mr)
+
 
 お仕事で書いた記事
 ---
