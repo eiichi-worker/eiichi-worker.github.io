@@ -54,13 +54,15 @@ Eiichi Fujimoto
   - ○ Java  
   - ○ Python3  
   - ○ PHP5.6  
+  - bash
  
 - データベース  
   - ◎ Mysql  
-  - ○ Redis  
-  - ○ DynamoDB  
-  - ○ Elasticsearch 5.6  
   - ○ Cloud Firestore
+  - ○ Redis  
+  - ○ Amazon DynamoDB  
+  - ○ Elasticsearch 5.6  
+  - ○ ポスグレ
 
 - ビッグデータ
   - ○ Amazon Athena  
@@ -79,13 +81,15 @@ Eiichi Fujimoto
     - S3
     - VPC
     - Route53
+    - ECR
+    - SQS
   - ○ Firebase  
 
 - サーバー  
   - ○ Linux（CentOS,Ubuntu,AmazonLinux2）  
 
 - 開発機  
-  - ◎ Windows10（メイン）  
+  - ◎ Windows11 Pro（メイン）  
   - ○ Mac  
 
 - OSSツール
@@ -123,6 +127,7 @@ Git
 ブログ
 ---
 
+- [note](https://note.com/eiichicat)
 - [ノラネコスクラップ](https://scrapbox.io/noraneko-scrap/)
 - [技術は生もの](http://blog.noraneko.work/)
 - [GitHub Gist](https://gist.github.com/eiichi-worker)
@@ -166,22 +171,15 @@ SNS
 ---
 
 - [Twitter](https://twitter.com/EiichiCat)
-- [Facebook](https://www.facebook.com/eiichi.fujimoto)
 - [Instagram](https://www.instagram.com/f_eiichi/)
-
-
-技術系サービス
----
-
-- [Eiichi / Kaggle](https://www.kaggle.com/eiichiworker)
+- [Facebook](https://www.facebook.com/eiichi.fujimoto)
 
 
 コンタクト
 ---
 
 - [Twitter](https://twitter.com/EiichiCat)
-- Discode Eiichi #6235
-- [ChatWork](https://chatwork.com/Eiichi_Fujimoto)
+- Discode
 
 
 免責
